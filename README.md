@@ -11,7 +11,7 @@
 
 - билд: **RESTfulExample** **(** RESTfulExample.war **)**
 - HTML-форма: http://localhost:8083/RESTfulExample/upload.html   http://localhost:8083/RESTfulExample/uploads.html
-- REST (url): POST   http://localhost:8083/RESTfulExample/rest/file/upload   file:D:\server\apache-tomcat-8.0.15\webapps\avatar.png
+- REST (url): POST   http://localhost:8083/RESTfulExample/rest/file/upload   file=file:D:\server\apache-tomcat-8.0.15\webapps\avatar.png
 - путь загрузки файла в: D:\server\apache-tomcat-7.0.70\photos
 
 
